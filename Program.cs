@@ -2,3 +2,5 @@
 Console.WriteLine("Hola des de feature-radar!");
 
 Console.WriteLine("Hola");
+
+Console.WriteLine("Com estàs?");
